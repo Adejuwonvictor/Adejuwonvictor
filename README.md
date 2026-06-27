@@ -1,12 +1,24 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Victor%20Adejuwon&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=DevOps%20and%20Platform%20Engineer&descAlignY=58&descColor=a8d8ea&animation=fadeIn" width="100%"/>
+</div>
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Victor%20Adejuwon&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=DevOps%20and%20Platform%20Engineer&descAlignY=58&descColor=a8d8ea" width="100%"/>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=A8D8EA&center=true&vCenter=true&width=750&lines=Building+infrastructure+that+doesn%27t+break+at+3am;Automating+everything+that+can+be+automated;Linux+%7C+Containers+%7C+Cloud+%7C+Go" alt="Typing SVG"/>
+</div>
 
-  [![Twitter Follow](https://img.shields.io/twitter/follow/vectorkole1?logo=twitter&style=for-the-badge&color=1DA1F2)](https://twitter.com/vectorkole1)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/victor-adejuwon-67051b169)
-  [![Blog](https://img.shields.io/badge/Substack-Read%20My%20Blog-FF6719?style=for-the-badge&logo=substack)](https://victoradejuwon.substack.com/)
-  [![Dev.to](https://img.shields.io/badge/Dev.to-Articles-0A0A0A?style=for-the-badge&logo=devdotto)](https://dev.to/vectorkole)
+<br/>
 
+<div align="center">
+  <a href="https://twitter.com/vectorkole1"><img src="https://img.shields.io/twitter/follow/vectorkole1?logo=twitter&style=for-the-badge&color=1DA1F2&labelColor=0d1117" alt="Twitter"/></a>
+  <a href="https://linkedin.com/in/victor-adejuwon-67051b169"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn"/></a>
+  <a href="https://victoradejuwon.substack.com/"><img src="https://img.shields.io/badge/Substack-Subscribe-FF6719?style=for-the-badge&logo=substack&logoColor=white&labelColor=0d1117" alt="Substack"/></a>
+  <a href="https://dev.to/vectorkole"><img src="https://img.shields.io/badge/Dev.to-Articles-ffffff?style=for-the-badge&logo=devdotto&logoColor=white&labelColor=0d1117" alt="Dev.to"/></a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Adejuwonvictor&style=for-the-badge&color=2c5364&labelColor=0d1117&label=PROFILE+VIEWS" alt="Profile views"/>
 </div>
 
 ---
@@ -45,24 +57,22 @@ fun_fact:          "I'm a pretty good listener... I think 🤔"
 
 <div align="center">
 
-| | |
-|:---:|:---:|
-| <img src="https://raw.githubusercontent.com/Adejuwonvictor/Adejuwonvictor/main/gemini_cli.png" width="340"/> | <img src="https://raw.githubusercontent.com/Adejuwonvictor/Adejuwonvictor/main/log_summarizer.png" width="340"/> |
+<a href="https://victoradejuwon.substack.com/"><img src="https://raw.githubusercontent.com/Adejuwonvictor/Adejuwonvictor/main/gemini_cli.png" width="48%" alt="Project 1"/></a>
+&nbsp;&nbsp;
+<a href="https://victoradejuwon.substack.com/"><img src="https://raw.githubusercontent.com/Adejuwonvictor/Adejuwonvictor/main/log_summarizer.png" width="48%" alt="Project 2"/></a>
 
-> Browse all write-ups → **[victoradejuwon.substack.com](https://victoradejuwon.substack.com/)**
+<br/><br/>
+
+> 📖 Full write-ups at **[victoradejuwon.substack.com](https://victoradejuwon.substack.com/)**
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Languages I Work With
 
 <div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=Adejuwonvictor&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a8d8ea&icon_color=a8d8ea&text_color=ffffff" height="165"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Adejuwonvictor&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a8d8ea&text_color=ffffff" height="165"/>
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Adejuwonvictor&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a8d8ea&text_color=ffffff" height="220" alt="Top Languages"/>
 </div>
 
 ---
@@ -71,8 +81,7 @@ fun_fact:          "I'm a pretty good listener... I think 🤔"
 
 <div align="center">
 
-  📧 **thombovic@zohomail.com** &nbsp;|&nbsp;
-  📄 **[View My Resume](https://drive.google.com/file/d/1e3ou2RvDN8PaPoeUSNMrUrCxk4RRbPex/view?usp=sharing)**
+  📧 **thombovic@zohomail.com** &nbsp;|&nbsp; 📄 **[View My Resume](https://drive.google.com/file/d/1e3ou2RvDN8PaPoeUSNMrUrCxk4RRbPex/view?usp=sharing)**
 
   <br/>
 
@@ -87,5 +96,5 @@ fun_fact:          "I'm a pretty good listener... I think 🤔"
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer" width="100%"/>
 </div>
