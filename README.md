@@ -29,12 +29,26 @@ I'm a **DevOps & Platform Engineer** from 🇳🇬 Nigeria, passionate about bui
 
 I write about what I build and learn at **[victoradejuwon.substack.com](https://victoradejuwon.substack.com/)** — real projects, real challenges, real lessons.
 
-```yaml
-currently_building: "CI/CD pipeline that reviews PRs with open-source AI & posts comments"
-currently_learning: ["Go", "Kubernetes", "AWS"]
-open_to:           ["Open source collaborations", "Job opportunities"]
-ask_me_about:      ["Linux", "Containerization", "Automation"]
-fun_fact:          "I'm a pretty good listener... I think 🤔"
+```bash
+$ whoami
+  Victor Adejuwon — DevOps & Platform Engineer · Nigeria 🇳🇬
+
+$ cat current_build.txt
+  CI/CD pipeline with AI-powered PR reviews & auto-comments 🤖
+
+$ cat learning.log
+  [▓▓▓▓▓░░░░░]  Go
+  [▓▓▓▓▓▓░░░░]  Kubernetes
+  [▓▓▓▓░░░░░░]  AWS
+
+$ cat open_to.txt
+  Open source collaborations · Job opportunities
+
+$ echo $ASK_ME_ABOUT
+  Linux · Containerization · Automation
+
+$ echo $FUN_FACT
+  "I'm a pretty good listener... I think 🤔"
 ```
 
 ---
