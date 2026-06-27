@@ -1,177 +1,41 @@
-<div align="center">
+# Hi 👋, I'm Victor
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Victor%20Adejuwon&fontAlign=50&fontAlignY=40&desc=Software%20Engineer%20•%20AI%20Builder%20•%20ML%20Researcher&descAlign=50&descAlignY=60" />
+### A passionate DevOps and platform Engineer from Nigeria
 
-</div>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Adejuwonvictor" alt="Adejuwonvictor" /></a> </p>
 
-<div align="center">
+<p align="left"> <a href="https://twitter.com/vectorkole1" target="blank"><img src="https://img.shields.io/twitter/follow/vectorkole1?logo=twitter&style=for-the-badge" alt="vectorkole1" /></a> </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&lines=Building+intelligent+systems.;Training+models+that+extract+signal+from+noise.;Exploring+AI,+DevOps,+and+Web3.;Turning+ideas+into+production-ready+software.)](https://git.io/typing-svg)
+- 🔭 I'm currently working on **A CI/CD pipeline to automatically verify code on PRs and put in a comment integrating it with opensource AI**
 
-</div>
+- 🌱 I'm currently learning **Go, Kubernetes and AWS**
 
----
+- 👯 I'm looking to collaborate on **open source projects and job openings**
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
+- 🤝 I'm looking for help with **learning more advanced system design**
 
-```bash
-victor@github:~$ whoami
-```
+- 💬 Ask me about **Linux, Containerization and Automation**
 
-```yaml
-name: Victor Adejuwon
-location: Nigeria
-role: Software Engineer
-specialization:
-  - Machine Learning
-  - AI Engineering
-  - DevOps
-  - Backend Engineering
-  - Web3 Infrastructure
+- 📫 How to reach me **thombovic@zohomail.com**
 
-currently_learning:
-  - LLM Systems
-  - Agentic AI
-  - Advanced Trading Systems
+- ⚡ Fun fact **I'm a pretty good listener....i think**
 
-mission:
-  Building software that solves real-world problems
-  through intelligence, automation, and scalable systems.
-```
+- 📝 I regularly write articles on **[https://victoradejuwon.substack.com/](https://victoradejuwon.substack.com/)**
 
-I am a software engineer passionate about building scalable software systems, AI-powered applications, and research-driven solutions.
+- 📄 Know about my experiences **[https://drive.google.com/file/d/1e3ou2RvDN8PaPoeUSNMrUrCxk4RRbPex/view?usp=sharing](https://drive.google.com/file/d/1e3ou2RvDN8PaPoeUSNMrUrCxk4RRbPex/view?usp=sharing)**
 
-My work spans machine learning, NLP, DevOps, cloud infrastructure, and intelligent systems engineering. I enjoy turning complex ideas into practical tools—from sentiment analysis pipelines to Dockerized AI applications.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/Adejuwonvictor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Adejuwonvictor" height="30" width="40" /></a>
+<a href="https://dev.to/vectorkole" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="vectorkole" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/victor-adejuwon-67051b169" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="victor-adejuwon-67051b169" height="30" width="40" /></a>
+<a href="https://twitter.com/vectorkole1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vectorkole1" height="30" width="40" /></a>
+</p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/aws" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/fastapi" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=fastapi" alt="fastapi" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/gcp" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=gcp" alt="gcp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/go" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=go" alt="go" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/kubernetes" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kubernetes" alt="kubernetes" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nginx" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nginx" alt="nginx" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/ollama" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/ollama" alt="ollama" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a></p>
 
-# Tech Arsenal
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Adejuwonvictor&show_icons=true&locale=en&layout=compact" alt="Adejuwonvictor" /></p>
 
-<div align="center">
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Adejuwonvictor&show_icons=true&locale=en" alt="Adejuwonvictor" /></p>
 
-<img src="https://skillicons.dev/icons?i=python,javascript,docker,linux,git,github,aws,kubernetes,mysql" />
-
-</div>
-
-### AI / ML Stack
-
-- Python  
-- Pandas  
-- NumPy  
-- Scikit-learn  
-- NLP  
-- Hugging Face  
-- Model Evaluation  
-- Data Pipelines  
-
----
-
-# Featured Projects
-
-## ML-Based Sentiment Analysis for Cybersecurity Levy
-Machine learning research project analyzing public sentiment around financial cybersecurity levy policies in Nigeria.
-
-**Highlights**
-- Twitter sentiment classification
-- RoBERTa-based labeling
-- Comparative model evaluation
-- Naive Bayes vs Logistic Regression vs Random Forest
-
----
-
-## Dockerized AI Application
-Production-ready AI application containerized with Docker for reproducible deployments.
-
-**Highlights**
-- Multi-stage Docker builds
-- Image optimization
-- Container orchestration
-- Deployment workflow optimization
-
----
-
-## AI Content Systems
-Designed AI-driven prompt architectures and automated content pipelines for high-engagement content generation.
-
----
-
-# Current Focus
-
-```python
-focus = [
-    "AI Engineering",
-    "LLM Systems",
-    "Open Source",
-    "Cloud Infrastructure",
-    "Trading Systems"
-]
-```
-
-Currently working on:
-- Building AI-powered systems
-- Learning deeper infrastructure engineering
-- Contributing to impactful open-source projects
-- Exploring agentic workflows
-
----
-
-# GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# Contribution Graph
-
-[![Victor's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true)](https://github.com/YOUR_USERNAME)
-
----
-
-# Philosophy
-
-> “I believe technology becomes truly powerful when intelligence meets utility.”
-
-I build systems not just to work — but to scale, adapt, and create meaningful impact.
-
----
-
-# Connect With Me
-
-<div align="center">
-
-<a href="mailto:yourmail@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://twitter.com/YOUR_HANDLE">
-<img src="https://img.shields.io/badge/X-Follow-black?style=for-the-badge&logo=x"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### Thanks for visiting 👨‍💻
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge"/>
-
-</div>
