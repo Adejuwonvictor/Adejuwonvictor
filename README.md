@@ -1,41 +1,91 @@
-# Hi 👋, I'm Victor
+<div align="center">
 
-### A passionate DevOps and platform Engineer from Nigeria
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Victor%20Adejuwon&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=DevOps%20and%20Platform%20Engineer&descAlignY=58&descColor=a8d8ea" width="100%"/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Adejuwonvictor" alt="Adejuwonvictor" /></a> </p>
+  [![Twitter Follow](https://img.shields.io/twitter/follow/vectorkole1?logo=twitter&style=for-the-badge&color=1DA1F2)](https://twitter.com/vectorkole1)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/victor-adejuwon-67051b169)
+  [![Blog](https://img.shields.io/badge/Substack-Read%20My%20Blog-FF6719?style=for-the-badge&logo=substack)](https://victoradejuwon.substack.com/)
+  [![Dev.to](https://img.shields.io/badge/Dev.to-Articles-0A0A0A?style=for-the-badge&logo=devdotto)](https://dev.to/vectorkole)
 
-<p align="left"> <a href="https://twitter.com/vectorkole1" target="blank"><img src="https://img.shields.io/twitter/follow/vectorkole1?logo=twitter&style=for-the-badge" alt="vectorkole1" /></a> </p>
+</div>
 
-- 🔭 I'm currently working on **A CI/CD pipeline to automatically verify code on PRs and put in a comment integrating it with opensource AI**
+---
 
-- 🌱 I'm currently learning **Go, Kubernetes and AWS**
+## 👋 About Me
 
-- 👯 I'm looking to collaborate on **open source projects and job openings**
+I'm a **DevOps & Platform Engineer** from 🇳🇬 Nigeria, passionate about building reliable infrastructure, automating everything that can be automated, and making software delivery faster and safer.
 
-- 🤝 I'm looking for help with **learning more advanced system design**
+I write about what I build and learn at **[victoradejuwon.substack.com](https://victoradejuwon.substack.com/)** — real projects, real challenges, real lessons.
 
-- 💬 Ask me about **Linux, Containerization and Automation**
+```yaml
+currently_building: "CI/CD pipeline that reviews PRs with open-source AI & posts comments"
+currently_learning: ["Go", "Kubernetes", "AWS"]
+open_to:           ["Open source collaborations", "Job opportunities"]
+ask_me_about:      ["Linux", "Containerization", "Automation"]
+fun_fact:          "I'm a pretty good listener... I think 🤔"
+```
 
-- 📫 How to reach me **thombovic@zohomail.com**
+---
 
-- ⚡ Fun fact **I'm a pretty good listener....i think**
+## 🛠️ Tech Stack
 
-- 📝 I regularly write articles on **[https://victoradejuwon.substack.com/](https://victoradejuwon.substack.com/)**
+<div align="center">
 
-- 📄 Know about my experiences **[https://drive.google.com/file/d/1e3ou2RvDN8PaPoeUSNMrUrCxk4RRbPex/view?usp=sharing](https://drive.google.com/file/d/1e3ou2RvDN8PaPoeUSNMrUrCxk4RRbPex/view?usp=sharing)**
+| Cloud & Infra | Containers & Orchestration | Languages & Frameworks | Databases & Servers |
+|:---:|:---:|:---:|:---:|
+| ![AWS](https://skillicons.dev/icons?i=aws) | ![Docker](https://skillicons.dev/icons?i=docker) | ![Python](https://skillicons.dev/icons?i=py) | ![PostgreSQL](https://skillicons.dev/icons?i=postgres) |
+| ![GCP](https://skillicons.dev/icons?i=gcp) | ![Kubernetes](https://skillicons.dev/icons?i=kubernetes) | ![Go](https://skillicons.dev/icons?i=go) | ![Nginx](https://skillicons.dev/icons?i=nginx) |
+| ![Git](https://skillicons.dev/icons?i=git) | ![Linux](https://skillicons.dev/icons?i=linux) | ![FastAPI](https://skillicons.dev/icons?i=fastapi) | <img src="https://cdn.simpleicons.org/ollama" width="48" height="48" alt="Ollama"/> |
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/Adejuwonvictor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Adejuwonvictor" height="30" width="40" /></a>
-<a href="https://dev.to/vectorkole" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="vectorkole" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/victor-adejuwon-67051b169" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="victor-adejuwon-67051b169" height="30" width="40" /></a>
-<a href="https://twitter.com/vectorkole1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vectorkole1" height="30" width="40" /></a>
-</p>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/aws" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/fastapi" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=fastapi" alt="fastapi" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/gcp" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=gcp" alt="gcp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/go" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=go" alt="go" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/kubernetes" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kubernetes" alt="kubernetes" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nginx" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nginx" alt="nginx" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/ollama" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/ollama" alt="ollama" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a></p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Adejuwonvictor&show_icons=true&locale=en&layout=compact" alt="Adejuwonvictor" /></p>
+## 🚀 Featured Projects
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Adejuwonvictor&show_icons=true&locale=en" alt="Adejuwonvictor" /></p>
+<div align="center">
 
+| | |
+|:---:|:---:|
+| <img src="https://raw.githubusercontent.com/Adejuwonvictor/Adejuwonvictor/main/gemini_cli.png" width="340"/> | <img src="https://raw.githubusercontent.com/Adejuwonvictor/Adejuwonvictor/main/log_summarizer.png" width="340"/> |
+
+> Browse all write-ups → **[victoradejuwon.substack.com](https://victoradejuwon.substack.com/)**
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=Adejuwonvictor&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a8d8ea&icon_color=a8d8ea&text_color=ffffff" height="165"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Adejuwonvictor&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a8d8ea&text_color=ffffff" height="165"/>
+
+</div>
+
+---
+
+## 📬 Reach Me
+
+<div align="center">
+
+  📧 **thombovic@zohomail.com** &nbsp;|&nbsp;
+  📄 **[View My Resume](https://drive.google.com/file/d/1e3ou2RvDN8PaPoeUSNMrUrCxk4RRbPex/view?usp=sharing)**
+
+  <br/>
+
+  <a href="https://github.com/Adejuwonvictor"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40"/></a>
+  &nbsp;
+  <a href="https://dev.to/vectorkole"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" height="30" width="40"/></a>
+  &nbsp;
+  <a href="https://linkedin.com/in/victor-adejuwon-67051b169"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/></a>
+  &nbsp;
+  <a href="https://twitter.com/vectorkole1"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40"/></a>
+
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" width="100%"/>
+</div>
