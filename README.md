@@ -9,16 +9,17 @@
 <br/>
 
 <div align="center">
-  <a href="https://twitter.com/vectorkole1"><img src="https://img.shields.io/twitter/follow/vectorkole1?logo=twitter&style=for-the-badge&color=1DA1F2&labelColor=0d1117" alt="Twitter"/></a>
-  <a href="https://linkedin.com/in/victor-adejuwon-67051b169"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn"/></a>
-  <a href="https://victoradejuwon.substack.com/"><img src="https://img.shields.io/badge/Substack-Subscribe-FF6719?style=for-the-badge&logo=substack&logoColor=white&labelColor=0d1117" alt="Substack"/></a>
-  <a href="https://dev.to/vectorkole"><img src="https://img.shields.io/badge/Dev.to-Articles-ffffff?style=for-the-badge&logo=devdotto&logoColor=white&labelColor=0d1117" alt="Dev.to"/></a>
+  <a href="https://twitter.com/vectorkole1"><img src="https://img.shields.io/badge/@vectorkole1-0d1117?style=flat-square&logo=twitter&logoColor=1DA1F2&label=Twitter&labelColor=0d1117" alt="Twitter"/></a>
+  <a href="https://linkedin.com/in/victor-adejuwon-67051b169"><img src="https://img.shields.io/badge/Victor%20Adejuwon-0d1117?style=flat-square&logo=linkedin&logoColor=0A66C2&label=LinkedIn&labelColor=0d1117" alt="LinkedIn"/></a>
+  <a href="https://victoradejuwon.substack.com/"><img src="https://img.shields.io/badge/Subscribe-0d1117?style=flat-square&logo=substack&logoColor=FF6719&label=Substack&labelColor=0d1117" alt="Substack"/></a>
+  <a href="https://dev.to/vectorkole"><img src="https://img.shields.io/badge/Read-0d1117?style=flat-square&logo=devdotto&logoColor=white&label=dev.to&labelColor=0d1117" alt="Dev.to"/></a>
+  <a href="mailto:thombovic@zohomail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=EA4335&label=thombovic%40zohomail.com&labelColor=0d1117" alt="Email"/></a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Adejuwonvictor&style=for-the-badge&color=2c5364&labelColor=0d1117&label=PROFILE+VIEWS" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=Adejuwonvictor&style=flat-square&color=a8d8ea&labelColor=0d1117&label=PROFILE+VIEWS" alt="Profile views"/>
 </div>
 
 ---
@@ -28,6 +29,8 @@
 I'm a **DevOps & Platform Engineer** from 🇳🇬 Nigeria, passionate about building reliable infrastructure, automating everything that can be automated, and making software delivery faster and safer.
 
 I write about what I build and learn at **[victoradejuwon.substack.com](https://victoradejuwon.substack.com/)** — real projects, real challenges, real lessons.
+
+> *"Boring infrastructure is good infrastructure."* — every SRE, eventually
 
 ```bash
 $ whoami
@@ -71,13 +74,44 @@ $ echo $FUN_FACT
 
 <div align="center">
 
-<a href="https://victoradejuwon.substack.com/"><img src="https://raw.githubusercontent.com/Adejuwonvictor/Adejuwonvictor/main/gemini_cli.png" width="48%" alt="Project 1"/></a>
-&nbsp;&nbsp;
-<a href="https://victoradejuwon.substack.com/"><img src="https://raw.githubusercontent.com/Adejuwonvictor/Adejuwonvictor/main/log_summarizer.png" width="48%" alt="Project 2"/></a>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<br/><br/>
+**🤖 Gemini CLI**
+*AI in your terminal.*
 
-> 📖 Full write-ups at **[victoradejuwon.substack.com](https://victoradejuwon.substack.com/)**
+An AI-powered command-line assistant that turns natural language into shell workflows.
+
+<a href="https://victoradejuwon.substack.com/">
+  <img src="https://raw.githubusercontent.com/Adejuwonvictor/Adejuwonvictor/main/gemini_cli.png" width="100%" alt="Gemini CLI screenshot"/>
+</a>
+
+<sub>`Python` · `LLM` · `CLI`</sub>
+
+</td>
+<td width="50%" valign="top">
+
+**📜 Log Summarizer**
+*Hours of logs → a 30-second read.*
+
+Pipeline that ingests noisy service logs and surfaces what actually matters using LLMs.
+
+<a href="https://victoradejuwon.substack.com/">
+  <img src="https://raw.githubusercontent.com/Adejuwonvictor/Adejuwonvictor/main/log_summarizer.png" width="100%" alt="Log Summarizer screenshot"/>
+</a>
+
+<sub>`LLM` · `Observability` · `DevOps`</sub>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<a href="https://victoradejuwon.substack.com/">
+  <img src="https://img.shields.io/badge/Read%20the%20writeups-victoradejuwon.substack.com-FF6719?style=for-the-badge&logo=substack&logoColor=white&labelColor=0d1117" alt="Read on Substack"/>
+</a>
 
 </div>
 
