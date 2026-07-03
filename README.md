@@ -120,7 +120,7 @@ Pipeline that ingests noisy service logs and surfaces what actually matters usin
 ## 📊 Languages I Work With
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Adejuwonvictor&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a8d8ea&text_color=ffffff" height="220" alt="Top Languages"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Adejuwonvictor&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a8d8ea&text_color=ffffff"/>
 </div>
 
 ---
